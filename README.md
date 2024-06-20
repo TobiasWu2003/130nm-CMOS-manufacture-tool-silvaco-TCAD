@@ -12,3 +12,6 @@ this is my homework in 6 semester in univesity.
 4.NMOS的扩散区好像也连在一起了（管他的，能验收通过就行（不是！
 
 <img width="1279" alt="image" src="https://github.com/TobiasWu2003/130nm-CMOS-manufacture-tool-silvaco-TCAD/assets/135199627/2bde812d-0df8-4b95-aa0a-61736923ff74">
+
+![TCAD-2024-06-19-16-16-52](https://github.com/TobiasWu2003/130nm-CMOS-manufacture-tool-silvaco-TCAD/assets/135199627/95f241a5-1efd-4455-b27e-3b29714e6fb0)
+
